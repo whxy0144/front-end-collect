@@ -8,3 +8,6 @@ jikeytang: https://github.com/jikeytang/front-end-collect
 玉伯：https://github.com/fouber/blog
 
 拔赤：https://github.com/jayli/jayli.github.com/issues
+
+# 提示词仓库
+李继钢：https://github.com/lijigang
